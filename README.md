@@ -1,2 +1,1 @@
-# Bouncybox
-Bouncing two boxes together.
+# Box Class
